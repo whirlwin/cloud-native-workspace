@@ -1,3 +1,0 @@
-[submodule "container-images"]
-	path = container-images
-	url = https://github.com/whirlwin/container-images
