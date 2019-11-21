@@ -14,5 +14,3 @@ docker run \
     --storage.path=/alertmanager \
     --mesh.listen-address="" \
     --web.external-url=https://your.domain.tld/alertmanager
-
-
